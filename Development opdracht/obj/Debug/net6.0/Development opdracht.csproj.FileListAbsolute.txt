@@ -1,0 +1,30 @@
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Development opdracht.exe
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Development opdracht.dll.config
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Development opdracht.deps.json
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Development opdracht.runtimeconfig.json
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Development opdracht.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Development opdracht.pdb
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\Renci.SshNet.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.csproj.AssemblyReference.cache
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.AssemblyInfoInputs.cache
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.AssemblyInfo.cs
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.csproj.CoreCompileInputs.cache
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.csproj.CopyComplete
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\refint\Development opdracht.dll
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.pdb
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\Development opdracht.genruntimeconfig.cache
+D:\Development\C# 10 and .NET 6\Development opdracht\Development opdracht\obj\Debug\net6.0\ref\Development opdracht.dll
